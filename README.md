@@ -3,3 +3,4 @@
  ## How to Play
 - Take control of a spaceship with WASD + SPACE to fly around and shoot at exploding targets in a mutliplayer environment.
 - Anyone should be able to join a common lobby from any browser anywhere.
+- TODO: add points, more targets, and a leaderboard system
